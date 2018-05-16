@@ -1,3 +1,6 @@
+// adding this line to check git behaviour
+
+
 //: arrays/CompType.java
 // Implementing Comparable in a class.
 import java.util.*;
